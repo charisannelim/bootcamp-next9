@@ -5,7 +5,7 @@ node_js:
 
 deploy:
  provider: heroku
- app: samply-deploy-charis-1
+ app: sample-deploy-charis-1
  api_key:
    secure: $HEROKU_API_KEY
  on:
